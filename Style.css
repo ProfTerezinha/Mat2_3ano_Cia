@@ -65,22 +65,27 @@ body {
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
-.aba-conteudo.ativo{
- display: block;
+
+.aba-conteudo.ativo {
+    display: block;
 }
-.aba-conteudo{
+
+.aba-conteudo {
     display: none;
 }
-.aba-conteúdo-titulo-principal{
+
+.aba-conteúdo-titulo-principal {
     font-size: 28px;
     text-align: center;
 }
-.aba-conteudo-titulo-secundario{
+
+.aba-conteudo-titulo-secundario {
     font-size: 20px;
     color: var(--verde);
     text-transform: uppercase;
     text-align: center;
 }
+
 .botao:first-child {
     border-radius: 40px 40px 0 0;
 }
