@@ -49,6 +49,8 @@ body {
 }
 .abas-textos{
     background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40 px;
 }
 .botao:first-child {
        border-radius: 40px 40px 0 0;
